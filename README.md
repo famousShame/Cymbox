@@ -8,17 +8,19 @@
 
 ## INSTRUMENT 1
 
-![IMG_1030.heic]({{site.baseurl}}/IMG_1030.heic)
+![1]({{site.baseurl}}/cymbox1.png)
+
 
 
 ## INSTRUMENT 2
 
-![IMG_1034.heic]({{site.baseurl}}/IMG_1034.heic)
+![2]({{site.baseurl}}//cymbox2.png)
+
 
 
 ## INSTRUMENT 3
 
-![IMG_1032.heic]({{site.baseurl}}/IMG_1032.heic)
+![3]({{site.baseurl}}//cymbox3.png)
 
 
 
