@@ -1,4 +1,4 @@
-### Cymbox
+##
 
 ## Interactive electronic musical instruments and noise-makers with household objects. Created with Arduino Open-source electronic prototyping platform.
 
