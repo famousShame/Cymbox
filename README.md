@@ -1,9 +1,9 @@
-##
+
+[CLICK HERE TO RETURN TO THE SHOW](http://www.yourcarsextendedwarranty.com/)
+
 
 ## Interactive electronic musical instruments and noise-makers with household objects. Created with Arduino Open-source electronic prototyping platform.
 
-
-[CLICK HERE TO RETURN TO THE SHOW](http://www.yourcarsextendedwarranty.com/)
 
 
 ## INSTRUMENT 1
