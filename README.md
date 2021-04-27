@@ -3,7 +3,7 @@
 
 
 
-## [**CLICK HERE TO RETURN TO THE SHOW**](http://www.yourcarsextendedwarranty.com/)
+
 
 
 
@@ -37,3 +37,7 @@
 
 
 ### [**INSPIRATION**](https://famousshame.github.io/cymbox/inspiration)
+
+
+
+## [**CLICK HERE TO RETURN TO THE SHOW**](http://www.yourcarsextendedwarranty.com/)
