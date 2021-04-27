@@ -2,4 +2,4 @@
 
 
 
-![]({{site.baseurl}}//cymbox1.png)
+![]({{site.baseurl}}//cymbox1%20copy.png)
