@@ -1,12 +1,20 @@
 
 ## **Cymbox**
+
+
+
 ## [**CLICK HERE TO RETURN TO THE SHOW**](http://www.yourcarsextendedwarranty.com/)
 
 
-> _Interactive electronic musical instruments and noise-makers with household objects. Created with Arduino Open-source electronic prototyping platform_.
+
+### [**INSPIRATION**](https://famousshame.github.io/inspiration/)
 
 
-## [**INSPIRATION**](https://famousshame.github.io/inspiration/)
+
+> _Cymbox is a series of interactive electronic musical instruments and noise-makers made with household objects. Created with Arduino Open-source electronic prototyping platform_.
+
+
+
 
 
 ## Instrument 1
