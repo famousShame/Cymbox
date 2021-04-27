@@ -7,22 +7,7 @@
 
 
 
-## [Instrument 1](https://famousshame.github.io/Cymbox/instrument-1)
-
-
-![cymbox1 copy 2.png]({{site.baseurl}}/cymbox1 copy 2.png)
-
-
-## [Instrument 2](https://famousshame.github.io/Cymbox/instrument-2)
-
-
-![cymbox2 copy 2.png]({{site.baseurl}}/cymbox2 copy 2.png)
-
-
-## [Instrument 3](https://famousshame.github.io/Cymbox/instrument-3)
-
-
-![cymbox3 copy 2.png]({{site.baseurl}}/cymbox3 copy 2.png)
+## [Instrument 1](https://famousshame.github.io/Cymbox/instrument-1)![cymbox1 copy 2.png]({{site.baseurl}}/cymbox1 copy 2.png)## [Instrument 2](https://famousshame.github.io/Cymbox/instrument-2)![cymbox2 copy 2.png]({{site.baseurl}}/cymbox2 copy 2.png)## [Instrument 3](https://famousshame.github.io/Cymbox/instrument-3)![cymbox3 copy 2.png]({{site.baseurl}}/cymbox3 copy 2.png)
 
 
 ## Demonstration
