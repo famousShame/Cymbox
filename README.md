@@ -29,7 +29,7 @@
 
 
 
-### [**INSPIRATION**](https://famousshame.github.io/cymbox/inspiration)
+## [**INSPIRATION**](https://famousshame.github.io/cymbox/inspiration)
 
 
 
