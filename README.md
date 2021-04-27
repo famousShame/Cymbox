@@ -3,12 +3,7 @@
 
 
 
-
-
-
-
 > _Cymbox is a series of interactive electronic musical instruments and noise-makers made with household objects. Created with Arduino Open-source electronic prototyping platform_.
-
 
 
 
@@ -18,11 +13,9 @@
 
 
 
-
 ## [Instrument 2](https://famousshame.github.io/cymbox/instrument-2)
 
 ![]({{site.baseurl}}//cymbox2%20copy.png)
-
 
 
 
