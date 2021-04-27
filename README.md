@@ -27,6 +27,6 @@
 
 
 
-<iframe width="625" height="315" src="https://www.youtube.com/embed/_lwG59rswQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="620" src="https://www.youtube.com/embed/_lwG59rswQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Inspiration](https://famousshame.github.io/inspiration/)
