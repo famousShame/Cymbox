@@ -6,6 +6,7 @@
 > _Interactive electronic musical instruments and noise-makers with household objects. Created with Arduino Open-source electronic prototyping platform_.
 
 
+[**Inspiration**](https://famousshame.github.io/inspiration/)
 
 
 ## Instrument 1
@@ -29,4 +30,4 @@
 
 <iframe width="620" height="620" src="https://www.youtube.com/embed/_lwG59rswQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[**Inspiration**](https://famousshame.github.io/inspiration/)
+
