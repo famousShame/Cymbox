@@ -7,7 +7,7 @@
 
 
 
-### [**INSPIRATION**](https://famousshame.github.io/inspiration/)
+### [**INSPIRATION**](https://famousshame.github.io/cymbox/inspiration)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-## Instrument 1
+## 
 
 ![]({{site.baseurl}}//cymbox1%20copy.png)
 
