@@ -25,11 +25,12 @@
 ![cymbox3 copy 2.png]({{site.baseurl}}/cymbox3 copy 2.png)
 
 
+## Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lwG59rswQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-## [**INSPIRATION**](https://famousshame.github.io/Cymbox/inspiration)
+## [**Inspiration**](https://famousshame.github.io/Cymbox/inspiration)
 
 
 
