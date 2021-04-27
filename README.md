@@ -16,21 +16,21 @@
 
 
 
-## 
+## [Instrument 1](https://famousshame.github.io/cymbox/instrument-1)
 
 ![]({{site.baseurl}}//cymbox1%20copy.png)
 
 
 
 
-## Instrument 2
+## [Instrument 2](https://famousshame.github.io/cymbox/instrument-2)
 
 ![]({{site.baseurl}}//cymbox2%20copy.png)
 
 
 
 
-## Instrument 3
+## [Instrument 3](https://famousshame.github.io/cymbox/instrument-3)
 
 ![]({{site.baseurl}}//cymbox3%20copy.png)
 
