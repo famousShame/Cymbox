@@ -1,4 +1,6 @@
 ## Instrument 3 Source Code
+(Based on code from Costantino Rizzuti's [Step Sequencer](https://www.artislab.it/en/diy-step-sequencer-2/))
+
 
 ```
 
