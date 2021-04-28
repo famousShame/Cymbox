@@ -1,5 +1,5 @@
 ## Inspiration
-__Here are some hardware/software instruments that inspired me:
+Here are some hardware/software instruments that inspired me:
 
 - [MAZETOOLS](https://www.mazetools.com/)
 - [BANDIMAL](https://www.yatatoy.com/bandimal)
