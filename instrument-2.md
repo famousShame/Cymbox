@@ -21,7 +21,7 @@ Materials:
 
 
 
-![instrument2_diagram.png]({{site.baseurl}}/instrument2_diagram.png)
+![inst2_bb.png]({{site.baseurl}}/inst2_bb.png)
 
 
 
