@@ -1,5 +1,14 @@
 ## Instrument 1 Source Code
 
+
+[Back](https://famousshame.github.io/Cymbox/instrument-1)
+
+
+[Home](https://famousshame.github.io/Cymbox/)
+
+
+
+
 ```
 const int controlPin1 = 2;
 const int controlPin2 = 3;
