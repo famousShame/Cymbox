@@ -1,6 +1,17 @@
 ## Instrument 3
 
 
+Materials:
+
+- Arduino Nano Every
+- 2 x Half Size Perma Proto Breadboard
+- 6 x Rotary Potentiometer
+- Slide Switch
+- 10㏀ Resistor
+- 3.5mm Audio Jack
+- Plastic Enclosure
+
+
 
 
 ![]({{site.baseurl}}//cymbox3.png)
