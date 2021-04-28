@@ -1,26 +1,6 @@
 ## Instrument 3 Source Code
 
 ```
-/*
-  ++ 6 STEP SEQUENCER ++
- 
-  DESCRIPTION:
-  Reads values from 6 potentiometers to change the pitch of any step of the sequencer tone generator.
-  Change the pitch of each step with a potentiometer.
-    
-  CIRCUIT:
-  Connect a speaker or piezo to pin number 13 and to ground;
-  Connect the first lead of a potentiometer to 5v and the last to ground, the one in the middle to Analog Input pin 0;
-  (Repeat for all the four potentiometers connecting the middle lead to Analog Input pins 0, 1, 2, 3, 4, 5);
-  Connect a switch from digital port 3 and ground, put a 220 Ohm Resistor between the digital port 3 and 5V;
-
-  For more information follow this link: http://www.artislab.it/it/step-sequencer/
- 
-  This example code is for educational purpose and it is in the public domain.
-  Author: Costantino Rizzuti 2016
-  Derived by a previous sketch made by Alessandro Contini & Paolo Cavagnolo
-  
-*/
 
 // Tones table definition
 #define NOTE_B0  31
