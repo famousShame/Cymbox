@@ -10,6 +10,7 @@ Materials:
 - Slide Potentiometer
 - H Bridge
 - 9V Battery
+- 2 x LEDs
 - Scrap Wood
 - Old Keys
 - Blank CD
