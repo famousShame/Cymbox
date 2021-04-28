@@ -12,8 +12,6 @@
 
 
 ```
-
-// Tones table definition
 #define NOTE_B0  31
 #define NOTE_C1  33
 #define NOTE_CS1 35
@@ -104,10 +102,6 @@
 #define NOTE_D8  4699
 #define NOTE_DS8 4978
 
-
-// Declaration of tones used in the sequencer
-// Define here the note you want to play.
-// The first notes are mapped to the lowest position of the pots
 int pitch[] = { 
                 NOTE_C3,
                 NOTE_GS3,
@@ -123,45 +117,37 @@ int pitch[] = {
                 NOTE_FS4};
                 
                 
-// Declaration of variables               
-int speaker = 10                                                                                                     ;                          // Speaker output pin
-int k=0;                                     // Variable to store the value of the loop   
+               
+int speaker = 10                                                                                                     ;                          
+int k=0;                                       
 int POT1 = A0;                              // POT1 pin
 int POT2 = A1;                              // POT2 pin
 int POT3 = A2;                              // POT3 pin
 int POT4 = A3;                              // POT4 pin
 int POT5 = A4;                              // POT5 pin
 int POT6 = A5;                              // POT6 pin
-int ReadPot1,ReadPot2,ReadPot3,ReadPot4,ReadPot5,ReadPot6;                            // Variable to store the value of the pots
-// Variables used to calculate tempo
-// set BPM
+int ReadPot1,ReadPot2,ReadPot3,ReadPot4,ReadPot5,ReadPot6;                            
 int bpm=80;
-// set Subdivision 1=quarter note; 0.5 ->eight note, ....
 float subdivision=1;
-//Define here the sequence of durations
-//-> 1->quarter note; 0.5 ->eight note, ....
 //float D[] = {1, 0.5, 0.5, 0.333, 0.333, 0.333}; //3/4 pattern
 float D[] = {1, 1, 0.5, 0.5,0.5, 0.5}; //4/4 pattern
-// The lenght of the D array
 int NDuration=6;  
 int DurCount=0;                               
-int value[] = {0, 0, 0, 0, 0, 0};              // value to define the discrete interval of tune using the pot
+int value[] = {0, 0, 0, 0, 0, 0};              
 int note[] = {0, 0, 0, 0, 0, 0};  
 int interval; 
 
 void setup() {
     pinMode(3, INPUT);
-    //Period computed according bpm and subdivision
     interval = 60000/(subdivision*bpm);  
 }
 
-
 void loop() { 
    if(digitalRead(3)==HIGH){
-    for (k = 0; k <= 5; k++) {                                 // Cycle on each pot
-      value[k] = map(analogRead(k), 0, 1023, 0, 2500);         // Mapping the value of the Potentiometer to have a wider range of values
+    for (k = 0; k <= 5; k++) {                                 
+      value[k] = map(analogRead(k), 0, 1023, 0, 2500);         
       
-      if ((value[k]>=0) && (value[k]<100))                     // Discretization of the pot intervals - in order to assign the note
+      if ((value[k]>=0) && (value[k]<100))                    
         note[k] = 0;    
       if ((value[k]>=100) && (value[k]<300))
         note[k] = pitch[0];
@@ -189,10 +175,9 @@ void loop() {
         note[k] = pitch[11];       
 
       float Duration=D[DurCount]*interval;
-      tone(speaker, note[k], Duration);           // Play the note
+      tone(speaker, note[k], Duration);           
       DurCount++;
       if(DurCount>=NDuration)DurCount=0;    
-      
       delay(Duration);
     }
    }
