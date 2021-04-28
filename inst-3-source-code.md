@@ -2,6 +2,15 @@
 (Based on code from Costantino Rizzuti's [Step Sequencer](https://www.artislab.it/en/diy-step-sequencer-2/))
 
 
+
+[Back](https://famousshame.github.io/Cymbox/instrument-3)
+
+
+[Home](https://famousshame.github.io/Cymbox/)
+
+
+
+
 ```
 
 // Tones table definition
