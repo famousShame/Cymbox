@@ -4,6 +4,7 @@ Materials:
 
 - Arduino Uno
 - DC Motor
+- Half Size Perma-Proto Breadboard
 - 2 x 10kΩ Resistor
 - 2 x Push Button
 - Slide Potentiometer
