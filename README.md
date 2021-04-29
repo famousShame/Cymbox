@@ -34,4 +34,6 @@
 
 [Instagram](https://www.instagram.com/seamoosee_/?hl=en)
 
+if you have questions or comments email me at: seamustynan@gmail.com
+
 ### [** CLICK HERE TO RETURN TO THE SHOW! **](http://www.yourcarsextendedwarranty.com/)
