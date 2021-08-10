@@ -11,7 +11,7 @@
 
 ```
 /*
-	Seamus Tynan -- Instrument #1
+	Seamus Tynan -- Instrument #2
     Copyright (C) <2021>  <Seamus Tynan>
 
     This program is free software: you can redistribute it and/or modify
@@ -23,6 +23,8 @@
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
+    
+    [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.html)
 */
 const int controlPin1 = 2;
 const int controlPin2 = 3;
