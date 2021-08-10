@@ -11,7 +11,7 @@
 
 ```
 /*
-	Seamus Tynan -- Instrument #1
+	Seamus Tynan -- Instrument #2
     Copyright (C) <2021>  <Seamus Tynan>
 
     This program is free software: you can redistribute it and/or modify
